@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\vidyarental\vidyarental\bin\Debug\vidyarental.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\vidyarental\vidyarental\bin\Debug\vidyarental.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\vidyarental\vidyarental\bin\Debug\vidyarental.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\vidyarental\vidyarental\obj\Debug\vidyarental.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\vidyarental\vidyarental\obj\Debug\vidyarental.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\vidyarental\vidyarental\obj\Debug\vidyarental.pdb
